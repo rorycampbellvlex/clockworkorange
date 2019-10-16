@@ -1,0 +1,98 @@
+ id    | title . 
+| 24237 | Administrative Appeals Tribunal of Australia |			
+| 24246 | Family Court of Australia |			
+| 24247 | Family Court of Australia - Full Court |			
+| 24248 | Federal Magistrate Court of Australia |			
+| 24249 | Federal Court of Australia |			
+| 24250 | Federal Circuit Court of Australia |			
+| 24269 | New South Wales Supreme Court |			
+| 24272 | Supreme Court of New South Wales - Court of Criminal Appeal |			
+| 24273 | NSW Industrial Relations Commission |			
+| 24274 | New South Wales Administrative Decisions Tribunal |			
+| 24281 | Supreme Court of Tasmania |			
+| 24282 | Supreme Court of Tasmania - Court of Criminal Appeal |			
+| 24283 | Supreme Court of Tasmania - Full Court |			
+| 24293 | Modern Law Review |			
+| 24299 | Alberta Court of Appeal |			
+| 24333 | Ecclesiastical Law Journal (UK) |			
+| 24336 | Law Journal, Irish |			
+| 24337 | Daily Cases |			
+| 24348 | European Patent Office Boards of Appeal |			
+| 24349 | EU Case |			
+| 24350 | European |			
+| 24351 | Estates Gazette |			
+| 24354 | Law Society Gazette |			
+| 24391 | OFFICIAL JOURNAL REFERENCE C |			
+| 24414 | Irish Planning and Environmental Law Journal |			
+| 24432 | Official Judgment (County Court (NI)) |			
+| 24437 | Special JILL Citations |			
+| 24442 | Arbitration and Dispute Resolution Law Journal |			
+| 24443 | Construction Industry Law Letter |			
+| 24444 | Construction Law Journal |			
+| 24445 | Conveyancer and Property Lawyer |			
+| 24446 | Conveyancing and Property Law Journal |			
+| 24447 | Education Law Journal |			
+| 24448 | Entertainment Law Review |			
+| 24450 | Insurance Law Monthly |			
+| 24452 | Journal of Planning and Environment Law |			
+| 24453 | Journal of Housing Law |			
+| 24454 | Journal of Social Security Law |			
+| 24455 | Journal des Tribunaux |			
+| 24456 | Local Government Review |			
+| 24457 | New Law Journal |			
+| 24458 | Private Client Business |			
+| 24459 | Public Law |			
+| 24460 | Solicitors Journal |			
+| 24461 | Solicitors Journal Law Brief |			
+| 24462 | Taxation |			
+| 24463 | The Tax Journal |			
+| 24464 | Lloyd's List |			
+| 24474 | Lloyd's Maritime Law Newsletter |			
+| 24495 | Law Journal Newspaper |			
+| 24516 | Malaysian Consumer Law Journal |			
+| 24520 | Privy Council Cases (Malaysia) |			
+| 24554 | Journal of the Law Society of Scotland |			
+| 24555 | Singapore Privy Council |			
+| 24560 | Tax Case Leaflets |			
+| 24562 | The Times Law Reports |			
+| 24563 | Court of Appeal (Justis) EW |			
+| 24564 | United Kingdom House of Lords (Justis) UK |			
+| 24565 | England & Wales High Court (Justis) UK |			
+| 24582 | Current Property Law |			
+| 24618 | Simon's Weekly Tax Intelligence |			
+| 24641 | Westlaw Transcripts |			
+| 24647 | Other |			
+| 24660 | Harvard Law Review |			
+| 24663 | HIGH COURT OF JUSTICIARY |			
+| 24665 | Hong Kong Cases |			
+| 24667 | Holdsworth Law Review |			
+| 24668 | Irish Criminal Law Journal |			
+| 24669 | Irish Employment Law Journal |			
+| 24671 | Irish Law Times [Journal] |			
+| 24675 | Case Citations |			
+| 24680 | International Litigation Procedur |			
+| 24681 | Saskatewan Law Review |			
+| 24682 | Ontario Law Review |			
+| 24683 | Scottish Criminal Law |			
+| 24684 | Privy Council (Antigua) |			
+| 24685 | Privy Council (Bahamas) |			
+| 24686 | Supreme Court (Bahamas) |			
+| 24687 | Divisional Court (Barbados) |			
+| 24688 | Privy Council (Barbados) |			
+| 24689 | Privy Council (Belize) |			
+| 24690 | Supreme Court (Belize) |			
+| 24691 | Privy Council (Bermuda) |			
+| 24692 | Supreme Court (Bermuda) |			
+| 24693 | Privy Council (BRVI) |			
+| 24694 | Privy Council (Cayman) |			
+| 24695 | Privy Council (Dominica) |			
+| 24696 | Privy Council (Grenada) |			
+| 24697 | Privy Council (Guyana) |			
+| 24698 | Privy Council (Jamaica) |			
+| 24699 | Supreme Court (Jamaica) |			
+| 24700 | Privy Council (Montserrat) |			
+| 24701 | Privy Council (St. Kitts Nevis) |			
+| 24702 | Privy Council (St. Lucia) |			
+| 24703 | Privy Council (St. Vincent) |			
+| 24704 | Privy Council (Trinidad and Tobago) |			
+| 24705 | Privy Council (Anguilla)			

@@ -1,0 +1,375 @@
+ id    | title . 
++-------+--------------------------------------------------------------------------------+
+| 24236 | Australian Argus Law Reports |
+| 24238 | Australian Company Law Cases |
+| 24239 | Australian Criminal Reports |
+| 24240 | Australian Corporations and Securities Reports |
+| 24241 | Adam's Justiciary Reports |
+| 24242 | All England Law Reports |
+| 24243 | All England Direct Law Reports (Digests) |
+| 24244 | All England Law Reports European Cases |
+| 24245 | All England Law Reports Reprint |
+| 24251 | Federal Court Reports |
+| 24252 | Australian Family Law Cases |
+| 24253 | American Journal of International Law |
+| 24254 | Administrative Law Decisions |
+| 24255 | Australian Law Journal |
+| 24256 | Australian Law Journal Reports |
+| 24257 | Administrative Appeals Reports |
+| 24258 | Australian Bankruptcy Cases |
+| 24259 | Australian Law Reports |
+| 24260 | Local Government and Environmental Reports of Australia |
+| 24261 | Local Government Reports of Australia |
+| 24262 | South Australian State Reports |
+| 24263 | Victorian Law Reports |
+| 24264 | Worker's Compensation Commission Reports of Cases |
+| 24265 | Victorian Reports |
+| 24266 | Argus Law Reports |
+| 24267 | American Maritime Cases |
+| 24268 | Industrial Arbitration Reports, New South Wales |
+| 24270 | New South Wales Law Reports |
+| 24271 | A'Beckett's Reserved Judgments, New South Wales |
+| 24275 | Family Law Reports (Australia) |
+| 24276 | Queensland Law Journal |
+| 24277 | Queensland State Reports |
+| 24278 | Queensland Weekly Notes |
+| 24279 | Aspinall's Maritime Cases |
+| 24280 | Tasmanian State Reports |
+| 24284 | Australian Tax Cases |
+| 24285 | Australian Trade Practices Reports |
+| 24286 | Australasian Tax Reports |
+| 24287 | Australian Intellectual Property Cases |
+| 24288 | British company cases |
+| 24289 | Butterworths Current Law |
+| 24290 | Butterworths Company Law Cases |
+| 24291 | Bermuda Law Reports |
+| 24292 | Butterworths Human Rights Cases |
+| 24294 | Business law reports |
+| 24295 | Electronic Business Law Reports |
+| 24296 | Butterworths Medico-Legal Reports |
+| 24297 | Butterworths Trading Law Cases |
+| 24298 | Industrial Law Journal (South Africa) |
+| 24300 | Alberta Law Reports, Second Series |
+| 24301 | Canada Law Reports, Exchequer Court |
+| 24302 | Real Property Reports |
+| 24303 | Upper Canada Queen's Bench Reports, New Series |
+| 24304 | Western Weekly Reports |
+| 24305 | Ontario Weekly Notes |
+| 24306 | Canadian Criminal Cases |
+| 24307 | Canada Federal Court Reports |
+| 24308 | Cayman Islands Law Reports (First series) |
+| 24309 | Cayman Islands Law Reports (Note) |
+| 24310 | Cayman Islands Law Reports (Second series) |
+| 24311 | British Columbia Law Reports |
+| 24312 | Canadian Native Law Reporter |
+| 24313 | Criminal Reports, Canada |
+| 24314 | Canadian Rights Reporter |
+| 24315 | Ontario Reports |
+| 24316 | Insurance Law Reporter |
+| 24317 | Ontario Weekly Reporter |
+| 24318 | Administrative Law Reports (Canada) |
+| 24319 | Reports of Family Law |
+| 24320 | Quebec Official Reports Court of Appeal |
+| 24321 | Canada Law Book |
+| 24322 | Commercial Law Cases |
+| 24323 | Commonwealth Law Reports |
+| 24324 | Intellectual Property Reports |
+| 24325 | Law Reports of the Commonwealth |
+| 24326 | Law Reports of the Commonwealth, Constitutional and Administrative Law Reports |
+| 24327 | Common Market Law Reports |
+| 24328 | Education Case Reports |
+| 24329 | CSR Case Reports |
+| 24330 | Criminal Appeal Reports |
+| 24331 | Criminal Appeal Reports (Sentencing) |
+| 24332 | Supreme Court Reports, Canada |
+| 24334 | Irish Jurist Reports Digest |
+| 24335 | Irish Reports (Digests) |
+| 24338 | Canadian Railway Cases |
+| 24339 | Canadian Railway and Transport Cases |
+| 24340 | Dominion Law Reports |
+| 24341 | Dominion Law Reports, 2nd Series |
+| 24342 | Dominion Law Reports, 4th Series |
+| 24343 | Irish Law Reports Monthly |
+| 24344 | Irish Law Times Reports |
+| 24345 | Northern Ireland Law Reports |
+| 24346 | European Court Reports |
+| 24347 | European Trade Mark Reports |
+| 24352 | Estates Gazette Case Summaries |
+| 24353 | Estates Gazette Digest of Cases |
+| 24355 | Estates Gazette Planning Law Reports |
+| 24356 | European Human Rights Reports |
+| 24357 | Human Rights Law Reports |
+| 24358 | European Copyright and Design Reports |
+| 24359 | Education Law Reports |
+| 24360 | The Law Reports |
+| 24361 | European Law Reports |
+| 24362 | Industrial Relations Law Reports |
+| 24363 | Ball & Beatty's Reports |
+| 24364 | Reports of Bankruptcy and Companies (Winding Up) Cases |
+| 24365 | Banking Law Reports |
+| 24366 | Nominate Series |
+| 24367 | Broun's Justiciary Reports |
+| 24368 | Buck's Cases in Bankruptcy |
+| 24369 | Construction Law Reports (UK) |
+| 24370 | Costs Law Reports |
+| 24371 | De Gex's Bankruptcy Reports |
+| 24372 | Entertainment and Media Law Reports |
+| 24373 | Employment Law Reports (UK) |
+| 24374 | English Reports |
+| 24375 | Family Court Reports |
+| 24376 | T.Jones' Exchequer Reports |
+| 24377 | Maclean & Robinson's Appeal Cases |
+| 24378 | Medical Law Reports |
+| 24379 | Montagu & Ayrton's Bankruptcy Reports |
+| 24380 | Montagu & Chitty's Bankruptcy Reports |
+| 24381 | Moore's Privy Council Cases, New Series |
+| 24382 | Moore's Common Pleas Reports |
+| 24383 | Morison's Dictionary of Decisions |
+| 24384 | Nevile & Manning's King's Bench Reports |
+| 24385 | Reports of Patent, Design and Trade Mark Cases |
+| 24386 | Weekly Reporter |
+| 24387 | Wills & Trusts Law Reports |
+| 24388 | Financial Law Reports |
+| 24389 | Environmental Health Law Reports |
+| 24390 | Environmental Law Reports |
+| 24392 | Extradition Law Report |
+| 24393 | Family Law Reports |
+| 24394 | Fleet Street Reports |
+| 24395 | Hong Kong Criminal Law Reports |
+| 24396 | Hong Kong Law Reports |
+| 24397 | Hong Kong Law Reports & Digest |
+| 24398 | Decisions and Reports of the European Court of Human Rights |
+| 24399 | Immigration Appeal Reports |
+| 24400 | Industrial Cases Reports |
+| 24401 | Industrial Cases Reports Digest |
+| 24402 | Immigration and Nationality Law Reports |
+| 24403 | Indian Law Reports, Bombay Series |
+| 24404 | Indian Law Reports, Madras Series |
+| 24405 | Law Reports, Indian Appeals |
+| 24406 | West Indian Law Reports |
+| 24407 | Information Law Reports |
+| 24408 | International Law Reports |
+| 24409 | Irvine's High Court and Circuit Courts of Justiciary Reports |
+| 24410 | Lower Burma Rulings |
+| 24411 | Revue Francaise de Droit Administratif |
+| 24412 | Adolphus & Ellis' Queen's Bench Reports, New Series |
+| 24413 | Intellectual Property Decisions |
+| 24415 | Inquest Law Reports |
+| 24416 | Beatty's Irish Chancery Reports |
+| 24417 | Drury's Irish Chancery Reports tempore Sugden |
+| 24418 | Drury & Warren's Irish Chancery Reports |
+| 24419 | Fox & Smith's Irish King's Bench Reports |
+| 24420 | Irish Common Law Reports (2nd series) |
+| 24421 | Irish Reports |
+| 24422 | Irish Chancery Reports (2nd series) |
+| 24423 | Irish Reports (Common Law Series) |
+| 24424 | Irish Law Reports |
+| 24425 | Jones & La Touche's Irish Chancery Reports |
+| 24426 | Liability, Risk and Insurance |
+| 24427 | Law Reports, Ireland (4th Series) |
+| 24428 | New Irish Jurist Reports |
+| 24429 | High Court of Justice in Northern Ireland Master's Decisions |
+| 24430 | Schoales & Lefroy's Irish Chancery Reports |
+| 24431 | Irish Equity Reports |
+| 24433 | International Trusts and Estates Law Report |
+| 24434 | International Tax Law Reports |
+| 24435 | Justis Irish Cases |
+| 24436 | Justis Irish Employment Cases |
+| 24438 | Justis Jamaican Cases |
+| 24439 | Jersey Judgments (older series) |
+| 24440 | Jersey Law Reports |
+| 24441 | Jamaica Law Reports |
+| 24449 | Greens Weekly Digest |
+| 24451 | IT + Communications Law Reports |
+| 24465 | Lloyd's Law Reports |
+| 24466 | Building Law Reports |
+| 24467 | Lloyd's Law Reports Insurance & Reinsurance |
+| 24468 | Lloyd's Law Reports Medical |
+| 24469 | Lloyd's Law Reports Banking |
+| 24470 | Lloyd's Law Reports Financial Crime |
+| 24471 | Lloyd's Law Reports Professional Negligence |
+| 24472 | Licensing Law Reports |
+| 24473 | Lloyd's Maritime and Commercial Law Quarterly |
+| 24475 | Lloyd's Reinsurance Law Reports |
+| 24476 | Lloyd's Law Reports Commercial |
+| 24477 | Lloyd's Law Reports Medical Web |
+| 24478 | Lloyd's Law Reports Patent |
+| 24479 | Lloyd's Law Reports Product Liability |
+| 24480 | Lloyd's Law Reports Regulatory |
+| 24481 | Lloyd's Law Reports Trademarks |
+| 24482 | Intellectual Property and Technology |
+| 24483 | IP & T Digests |
+| 24484 | Law Journal Reports, Admiralty New Series |
+| 24485 | Law Journal Reports, Bankruptcy New Series |
+| 24486 | Law Journal County Courts Reporter |
+| 24487 | Law Journal Reports, Chancery New Series |
+| 24488 | Law Journal Reports, Common Pleas New Series |
+| 24489 | Law Journal Reports, Exchequer New Series |
+| 24490 | Law Journal Reports, Exchequer in Equity |
+| 24491 | Law Journal Reports, House of Lords New Series |
+| 24492 | Law Journal Reports, King's Bench New Series |
+| 24493 | Law Journal Reports, Magistrates' Cases New Series |
+| 24494 | Law Journal Reports, New Series |
+| 24496 | Law Journal Reports, Chancery Old Series |
+| 24497 | Law Journal Reports, Probate, Divorce & Admiralty New Series |
+| 24498 | Law Journal Reports, Privy Council New Series |
+| 24499 | Law Journal Reports, Probate, Matrimonial & Admiralty New Series |
+| 24500 | Law Journal Reports, Queen's Bench New Series |
+| 24501 | Law Journal Reports |
+| 24502 | Malayan Law Journal |
+| 24503 | Malaysian Law Review (Appellate Courts) |
+| 24504 | All Malaysia Reports |
+| 24505 | Malaysian Current Law Journal |
+| 24506 | Current Law Journal Islamic Law |
+| 24507 | Malaysia and Singapore Company and Securities Law Cases |
+| 24508 | Malaysia and Singapore Company and Securities Law Reports |
+| 24509 | Personal Injury Reports |
+| 24510 | Shariah Law Reports (Malaysian) |
+| 24511 | Syariah Reports/Laporan Syariah |
+| 24512 | All Malaysia Commercial Reports |
+| 24513 | All Malaysia Tax Cases |
+| 24514 | Business Law Journal |
+| 24515 | Malayan Cases |
+| 24517 | Malaysian Law Review (High Court) |
+| 24518 | Sessions & Magistrates' Cases |
+| 24519 | Industrial Law Reports (Malaysia) |
+| 24521 | Malaysian Employment Law Review |
+| 24522 | Malaysia and Singapore Tax Cases |
+| 24523 | Mental Health Law Reports |
+| 24524 | Alberta Reports |
+| 24525 | Dominion Tax Cases |
+| 24526 | New Brunswick Reports, 2nd Series |
+| 24527 | National Reporter |
+| 24528 | British Columbia Trial Cases |
+| 24529 | Atlantic Province Reports |
+| 24530 | New Zealand Law Reports |
+| 24531 | Journal of Intellectual Property Law & Practice |
+| 24532 | Personal Injuries and Quantum Reports |
+| 24533 | Quantum Reports |
+| 24534 | Prison Law Reports |
+| 24535 | Papua and New Guinea Law Reports |
+| 24536 | Police Law Reports |
+| 24537 | Dunlop, Bell & Murray's Reports, Second Series Session Cases |
+| 24538 | Fraser's Court of Session Cases, 5th Series |
+| 24539 | Faculty of Advocates, Collection of Decisions |
+| 24540 | Macpherson's Session Cases (3rd Series) |
+| 24541 | Rettie, Crawford & Melville, Session Cases (4th Series) |
+| 24542 | Rettie, Crawford & Melville, Court of Session Cases (4th Series) |
+| 24543 | Session Cases |
+| 24544 | Scottish Land Court Reports |
+| 24545 | Scots Law Times |
+| 24546 | Scots Law Times Lands Tribunal Reports |
+| 24547 | Scots Law Times, Lyon Court Reports |
+| 24548 | Scots Law Times, News Section |
+| 24549 | Scots Law Times, Notes of Recent Decisions |
+| 24550 | Session Notes |
+| 24551 | Reparation Law Reports |
+| 24552 | Scottish Civil Law Reports |
+| 24553 | Scottish Case Digests |
+| 24556 | Singapore Law Reports |
+| 24557 | State Trials |
+| 24558 | CCH British Tax Cases |
+| 24559 | Tax Cases |
+| 24561 | Law Times Reports |
+| 24566 | UK Competition Law Reports |
+| 24567 | Arkley's Justiciary Reports |
+| 24568 | Arnold's Common Pleas Reports |
+| 24569 | Administrative Court Digest |
+| 24570 | Administrative Law Reports (UK) |
+| 24571 | Bankruptcy and Personal Insolvency Reports |
+| 24572 | Cababe & Ellis' Queen's Bench Reports |
+| 24573 | Consumer Credit Law Reports |
+| 24574 | Consumer Care Law Reports |
+| 24575 | Chitty's Practice Reports |
+| 24576 | Current Law Monthly Digest |
+| 24577 | Commercial Law Practitioner |
+| 24578 | Crown Office Digest |
+| 24579 | Commercial Cases |
+| 24580 | Commercial Law Reports |
+| 24581 | Competition Appeal Reports |
+| 24583 | Civil Practice Law Reports |
+| 24584 | Civil Procedure Reports |
+| 24585 | Criminal Law Review |
+| 24586 | Dowling's Practice Cases |
+| 24587 | Dowling & Ryland's Nisi Prius Cases |
+| 24588 | Dowling & Ryland's King's Bench Reports |
+| 24589 | De-Rating & Rating Appeals |
+| 24590 | Justice of the Peace |
+| 24591 | Jurist Reports, New Series |
+| 24592 | Knight's Industrial Law Reports |
+| 24593 | Knight's Industrial & Commercial Reports |
+| 24594 | Local Government Reports |
+| 24595 | Law Reports, Restrictive Practices Cases |
+| 24596 | LS Law Licensing |
+| 24597 | LS Law Medical |
+| 24598 | Landlord and Tenant Reports |
+| 24599 | New Property Cases |
+| 24600 | O'Malley & Hardcastle Election Cases |
+| 24601 | Occupational Pension Law Reports |
+| 24602 | Palmer's Company Cases |
+| 24603 | Planning and Compensation Reports |
+| 24604 | Pension Law Reports |
+| 24605 | Planning Law Case Reports |
+| 24606 | Property Law Service Case Summaries |
+| 24607 | Professional Negligence |
+| 24608 | Professional Negligence and Liability Reports |
+| 24609 | Public and Third Sector Law Reports |
+| 24610 | Rating Appeals |
+| 24611 | Rating & Income Tax Reports |
+| 24612 | Ryde's Rating Cases |
+| 24613 | Rating & Valuation Reporter |
+| 24614 | CCH Special Commissioners' Decisions |
+| 24615 | Shower's Parliamentary Cases |
+| 24616 | Simons Tax Cases |
+| 24617 | Simon's Tax Cases, Special Commissioners' Decisions |
+| 24619 | Technology and Construction Law Reports |
+| 24620 | Traffic Cases |
+| 24621 | Value Added Tax and Duties Reports |
+| 24622 | White & Tudor, Leading Cases in Equity. 9th ed. |
+| 24623 | Wilson & Shaw's Appeal Cases, House of Lords |
+| 24624 | Weekly Notes |
+| 24625 | Reports of Selected War Pensions Appeals |
+| 24626 | Yearbook of Commercial Arbitration |
+| 24627 | Planning and Compensation Reports Digest |
+| 24628 | The Reports in all the Courts |
+| 24629 | Taxation Reports UK |
+| 24630 | UK Case Reports |
+| 24631 | Atlantic Reporter, Second Series |
+| 24632 | Arizona Reports |
+| 24633 | California Reports, Second Series |
+| 24634 | California Reporter |
+| 24635 | North Western Reporter |
+| 24636 | New York Reports, Second Series |
+| 24637 | South Eastern Reporter, Second Series |
+| 24638 | United States Patents Quarterly |
+| 24639 | CCH British VAT Cases |
+| 24640 | Weekly Law Reports |
+| 24642 | All Canada Weekly Summaries |
+| 24643 | Current Law Year Book |
+| 24644 | Couper's Justiciary Reports |
+| 24645 | Crockford & Cox's Maritime Cases |
+| 24646 | Calcutta Weekly Notes |
+| 24648 | Durnford & East's Term Reports, King's Bench |
+| 24649 | European Commercial Cases |
+| 24650 | European National Patent Reports |
+| 24651 | Federal Reporter, Second Series |
+| 24652 | Federal Reporter, Third Series |
+| 24653 | Family Law |
+| 24654 | Judgments of the Court of Criminal Appeal |
+| 24655 | Federal Supplement |
+| 24656 | Financial Times Law Reports |
+| 24657 | Goode: Consumer Credit Reports |
+| 24658 | Gibraltar Law Reports |
+| 24659 | Glyn & Jameson's Bankruptcy Reports |
+| 24661 | Hayes & Jones Irish Exchequer Reports |
+| 24662 | Hansell's Reports of Bankruptcy and Companies' Winding-up Cases |
+| 24664 | High Commission Territories Law Reports |
+| 24666 | Housing Law Reports |
+| 24670 | International Legal Materials |
+| 24672 | British Library Patent Applications |
+| 24673 | Road Traffic Reports |
+| 24674 | Ryan & Moody's Nisi Prius Reports |
+| 24676 | Southern Reporter |
+| 24677 | Tristram's Consistory Judgments |
+| 24678 | Tyrwhitt's Exchequer Reports |
+| 24679 | Halsbury's Laws Annual Abridgment Intellectual Property Digests |
